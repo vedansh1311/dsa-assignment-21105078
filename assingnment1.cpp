@@ -97,5 +97,5 @@ int main(){
     cout<<endl;
     Preceding(head);
 }
-
-//we can link family members according to their ages like in order of  elder to younger members in a family or from younger to elder ....
+//ans 2
+//we can link family members according to their ages like in order of  elder to younger members in a family or from younger to elder .
